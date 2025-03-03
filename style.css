@@ -1,0 +1,13 @@
+.container{
+    border: dotted 1px black ;
+    
+    
+
+}
+.inner_container{
+    border: solid 1px greenyellow;
+    padding: 20px;
+    margin: 5%;
+
+    
+}
